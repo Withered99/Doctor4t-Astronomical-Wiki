@@ -3,4 +3,4 @@
 
 ## All info is in the wiki section
 
-## THis is VERY work in progress
+## This is still a work in progress
