@@ -1,2 +1,4 @@
-# Doctor4t-Astronomical-Wiki
-A documentation of most things in the Astronomical Mod
+# Astronomical Wiki
+**This is an unofficial project and not connected to doctor4t or Ladysnake**
+
+## All info is in the wiki section
